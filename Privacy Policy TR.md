@@ -1,6 +1,6 @@
 Geliştirdiğiniz "Retro Hesap Makinesi" adlı uygulama için gizlilik politikası aşağıdaki gibi olabilir:
 
-Gizlilik Politikası
+Gizlilik Politikasıı
 
 Retro Hesap Makinesi ("biz", "bizim" veya "uygulama"), kullanıcılarımızın gizliliğine saygı duyar ve kişisel bilgilerinizin korunmasını önemser. Bu gizlilik politikası, uygulamamızın nasıl veri topladığını, kullanıldığını, paylaşıldığını ve korunduğunu açıklamaktadır. Lütfen bu politikayı dikkatlice okuyun ve uygulamamızı kullanmadan önce bu şartlara uymayı kabul ettiğinizden emin olun.
 
